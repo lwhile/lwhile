@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lwhile's code::stats stats](https://codestats-readme.vercel.app/api?username=lwhile&show_icons)](https://github.com/Aviortheking/codestats-readme)
 
 
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwhile)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=lwhile&language_count=15&&layout=compact)](https://github.com/aviortheking/codestats-readme) |
+
+|[![lwhile's code::stats stats](https://codestats-readme.vercel.app/api?username=lwhile&show_icons)](https://github.com/Aviortheking/codestats-readme)| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwhile)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=lwhile&language_count=15&&layout=compact)](https://github.com/aviortheking/codestats-readme) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                                                                                                                            |                                                                                                                                                                        |
 
