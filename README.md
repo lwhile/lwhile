@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lwhile's code::stats stats](https://codestats-readme.vercel.app/api?username=lwhile)](https://github.com/Aviortheking/codestats-readme)
+[![lwhile's code::stats stats](https://codestats-readme.vercel.app/api?username=lwhile&show_icons)](https://github.com/Aviortheking/codestats-readme)
