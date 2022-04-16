@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![lwhile's code::stats stats](https://codestats-readme.vercel.app/api?username=lwhile&show_icons)](https://github.com/Aviortheking/codestats-readme)
+
+[![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=lwhile&language_count=15)](https://github.com/aviortheking/codestats-readme)
