@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwhile&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=lwhile&language_count=15&&layout=compact)](https://github.com/aviortheking/codestats-readme) |
+| [![lwhile's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwhile&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=lwhile&language_count=15&&layout=compact)](https://github.com/aviortheking/codestats-readme) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                                                                                                                            |                                                                                                                                                                        |
                                   
