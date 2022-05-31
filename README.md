@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 |     |     |
 
 
-| [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=lwhile&language_count=15&&layout=compact)](https://github.com/aviortheking/codestats-readme)   | 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwhile&theme=nord_bright)
-  |     |
-  | --- |
-  |     |
+| [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=lwhile&language_count=15&&layout=compact)](https://github.com/aviortheking/codestats-readme) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwhile&theme=nord_bright) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                        |                                                                                                                  |
 
 
