@@ -25,3 +25,5 @@ Here are some ideas to get you started:
                                   
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwhile&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lwhile&theme=default)
