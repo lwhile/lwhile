@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 |                                                                                                                                            |                                                                                                                                                                        |
                                   
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwhile&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lwhile&theme=default)
